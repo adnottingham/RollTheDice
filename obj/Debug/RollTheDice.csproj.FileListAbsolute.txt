@@ -1,0 +1,9 @@
+c:\users\adnot\OneDrive\Documents\Visual Studio 2015\Projects\RollTheDice\RollTheDice\bin\Debug\RollTheDice.exe.config
+c:\users\adnot\OneDrive\Documents\Visual Studio 2015\Projects\RollTheDice\RollTheDice\bin\Debug\RollTheDice.exe
+c:\users\adnot\OneDrive\Documents\Visual Studio 2015\Projects\RollTheDice\RollTheDice\bin\Debug\RollTheDice.pdb
+c:\users\adnot\OneDrive\Documents\Visual Studio 2015\Projects\RollTheDice\RollTheDice\obj\Debug\RollTheDice.csprojResolveAssemblyReference.cache
+c:\users\adnot\OneDrive\Documents\Visual Studio 2015\Projects\RollTheDice\RollTheDice\obj\Debug\RollTheDice.TableTop.resources
+c:\users\adnot\OneDrive\Documents\Visual Studio 2015\Projects\RollTheDice\RollTheDice\obj\Debug\RollTheDice.Properties.Resources.resources
+c:\users\adnot\OneDrive\Documents\Visual Studio 2015\Projects\RollTheDice\RollTheDice\obj\Debug\RollTheDice.csproj.GenerateResource.Cache
+c:\users\adnot\OneDrive\Documents\Visual Studio 2015\Projects\RollTheDice\RollTheDice\obj\Debug\RollTheDice.exe
+c:\users\adnot\OneDrive\Documents\Visual Studio 2015\Projects\RollTheDice\RollTheDice\obj\Debug\RollTheDice.pdb
